@@ -1,0 +1,15 @@
+.header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 40px;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
