@@ -1,3 +1,33 @@
+Getting Started
+
+1. Clone the Repository:
+
+   `git clone https://github.com/your-username/your-repo.git
+   cd your-repo`
+
+2. Navigate to the Client Folder
+
+   `cd client`
+
+3. Install Client Dependencies & Build the Client
+
+   `npm install`
+
+   `npm run build`
+
+4. Navigate to the Server Folder:
+
+   `cd ../server`
+   
+5. Install Server Dependencies:
+
+   `npm install`
+
+6. Start the Server:
+
+   ```npm run start```
+
+
 # Exercise
 
 The goal of the project is to build a simple business loan application system.
