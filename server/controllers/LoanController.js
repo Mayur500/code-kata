@@ -16,7 +16,7 @@ exports.submitApplication = async (req, res) => {
       loanAmount
     };
 
-    res.status(201).json({
+    res.status(200).json({
       message: "Loan application submitted successfully",
       loanApplication,
       preAssessment,
